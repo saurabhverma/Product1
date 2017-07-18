@@ -1,0 +1,3 @@
+[submodule "Frameworks/Internal/WhiteLabeled"]
+	path = Frameworks/Internal/WhiteLabeled
+	url = https://github.com/saurabhverma/WhiteLabeled.git
